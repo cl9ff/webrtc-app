@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/webrtc-app/static/css/main.c7ec3132.css",
+    "main.js": "/webrtc-app/static/js/main.e56611ab.js",
+    "index.html": "/webrtc-app/index.html",
+    "main.c7ec3132.css.map": "/webrtc-app/static/css/main.c7ec3132.css.map",
+    "main.e56611ab.js.map": "/webrtc-app/static/js/main.e56611ab.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c7ec3132.css",
+    "static/js/main.e56611ab.js"
+  ]
+}
