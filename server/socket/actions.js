@@ -10,4 +10,4 @@ const ACTIONS = {
   SESSION_DESCRIPTION: 'session_description'
 };
 
-export default ACTIONS;
+module.exports = ACTIONS;
